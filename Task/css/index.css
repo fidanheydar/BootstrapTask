@@ -1,0 +1,19 @@
+  .shop{
+    height: 260px;
+} 
+.shop h1{
+    padding-top: 4rem;
+    text-align: center;
+    color: white;
+    font-size: 56px;
+    font-weight: 700;
+    
+    
+}
+.shop p{
+    text-align: center;
+    padding-top: 0.3rem;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 1.25rem;
+    font-weight: 400;
+} 
